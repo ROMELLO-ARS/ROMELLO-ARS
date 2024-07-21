@@ -10,7 +10,7 @@
 - 
 <h2>Certificates and Achievements</h2> 
 
-<h2>Academic Projects</h2> 
+<h2>Academic Development Projects</h2> 
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
