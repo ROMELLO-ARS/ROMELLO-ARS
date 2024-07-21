@@ -1,4 +1,4 @@
-<h1>Hi, I'm Romello! <br/><a href="https://github.com/ROMELLO-ARS">ICT SUPPORT TRAINEE</a>, <a href="https://www.linkedin.com/in/naromellosookoo/">Cybersecurity Technician Trainee</a>, <a href="https://www.youtube.com/c/">YouTuber</a></h1>
+<h1>Hi, I'm Romello! <br/><a href="https://github.com/ROMELLO-ARS">ICT SUPPORT TRAINEE</a>, <a href="https://www.linkedin.com/in/naromellosookoo/">Cybersecurity Technician Trainee</a>, <a href="https://www.youtube.com/c/">Student</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
