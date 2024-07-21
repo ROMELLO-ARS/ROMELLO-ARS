@@ -14,9 +14,6 @@
 - TryHackMe
 - ISC2
 
-
-
-
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
