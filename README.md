@@ -1,4 +1,4 @@
-<h1>Hi, I'm Romello! <br/><a href="https://github.com/ROMELLO-ARS">ICT Support Trainee</a>, <a href="https://www.linkedin.com/in/naromellosookoo/"> Cybersecurity Technician Trainee</a>, <a href="https://www.youtube.com/c/">B.Sc.ISM Student</a></h1>
+<h1>Hi, I'm Romello! <br/><a href="https://github.com/ROMELLO-ARS">ICT Support Trainee</a>, <a href="https://www.linkedin.com/in/naromellosookoo/"> Cybersecurity Technician Trainee</a>, <a href="https://www.youtube.com/c/">B.Sc.Information Systems Management Student</a></h1>
 
 <h2>📺 Cybersecrity Projects and Labs Videos</h2> 
 
@@ -9,8 +9,8 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2>Certificates and Achievements</h2> 
-- [Fortinet]
-- [CISCO]
+- ([Fortinet])
+- [CISCO])
 - [TryHackMe]
 - [ISC2]
 
