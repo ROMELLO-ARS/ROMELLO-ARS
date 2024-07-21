@@ -9,6 +9,11 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2>Certificates and Achievements</h2> 
+Fortinet
+CISCO
+TryHackMe
+ISC2
+
 
 
 
