@@ -1,6 +1,5 @@
 <h1>Hi, I'm Romello! <br/><a href="https://github.com/ROMELLO-ARS">ICT Support Trainee</a>, <a href="https://www.linkedin.com/in/naromellosookoo/"> Cybersecurity Technician Trainee</a>, <a href="https://www.youtube.com/c/">B.Sc. Information Systems Management Student</a></h1>
 
-<iframe src="https://giphy.com/embed/QvvVnSnmLeENMcsOJg" width="480" height="295" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Siemens--death-star-cybersecurity-may-the-4th-QvvVnSnmLeENMcsOJg">via GIPHY</a></p>
 <h2>📺 Cybersecrity Projects and Labs Videos</h2> 
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
